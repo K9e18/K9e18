@@ -32,12 +32,5 @@ I am a Robotics Engineering student with a deep passion for low-level programmin
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=K9e18&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="K9e18's GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K9e18&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-
----
-
 ### ⚡ Fun Fact
 > *"The intersection of C++, soldering irons, and rocket science is where the future is built."* 🚀
