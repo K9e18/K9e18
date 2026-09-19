@@ -14,12 +14,12 @@ I am a Robotics Engineering student with a deep passion for low-level programmin
 
 ### 🛠️ Tech Stack & Tools
 
-![Debian](https://shields.io)
-![C++](https://shields.io)
-![Neovim](https://shields.io)
-![Arduino](https://shields.io)
-![GNOME](https://shields.io)
-![Ghostty](https://shields.io)
+![Debian](https://shields.io/badge/Debian-CC2927?style=for-the-badge&logo=debian&logoColor=white)
+![C++](https://shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Neovim](https://shields.io/badge/Neovim-57A864?style=for-the-badge&logo=neovim&logoColor=white)
+![Arduino](https://shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GNOME](https://shields.io/badge/GNOME-4679A3?style=for-the-badge&logo=gnome&logoColor=white)
+![Ghostty](https://shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghost&logoColor=white)
 
 ---
 
@@ -35,8 +35,8 @@ I am a Robotics Engineering student with a deep passion for low-level programmin
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://vercel.app" alt="K9e18's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K9e18&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="K9e18's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K9e18&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
 ---
