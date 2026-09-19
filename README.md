@@ -34,11 +34,12 @@ I am a Robotics Engineering student with a deep passion for low-level programmin
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=K9e18&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="K9e18's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K9e18&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</p>
+### 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=k9e18&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="k9e18's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9e18&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
 ---
 
 ### ⚡ Fun Fact
