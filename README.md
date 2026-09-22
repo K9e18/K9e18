@@ -1,6 +1,6 @@
 # Hi there, I'm K9e18! 👋
 
-I am a Robotics Engineering student with a deep passion for low-level programming, electronics, and space exploration. I love building things from scratch, whether it's embedded C++ code or hardware circuits.
+I am a 16-year-old Robotics Engineering student with a deep passion for low-level programming, electronics, and space exploration. I love building things from scratch, whether it's embedded C++ code or hardware circuits.
 
 ---
 
