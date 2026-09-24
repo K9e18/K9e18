@@ -31,6 +31,3 @@ I am a 16-year-old Robotics Engineering student with a deep passion for low-leve
 - 🚀 **Aerospace Engineering:** Fundamentals of rocket technology and space systems engineering.
 
 ---
-
-### ⚡ Fun Fact
-> *"The intersection of C++, soldering irons, and rocket science is where the future is built."* 🚀
